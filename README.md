@@ -26,7 +26,7 @@ This folder is used to store the results and a folder named `TGSF12_band260_S1_0
 - `estimated_psf_srf.mat` is the estimated PSF and SRF.
 
 - `gt_lr_msi.mat` is the gt lr_msi.
-- 
+
 - `hr_msi.mat` and `lr_hsi.mat`  are simulated results as the input of our method.
 
 - `opt.txt` is the configuration of our method.
