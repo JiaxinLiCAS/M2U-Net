@@ -1,7 +1,7 @@
 # M2U-Net_TGRS
 Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-resolution, TGRS. (PyTorch)
 
-WeChat: BatAug 我的微信：BatAug
+# $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing  (TGRS). 
 
