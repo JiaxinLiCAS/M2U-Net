@@ -3,7 +3,11 @@ Model-informed Multi-stage Unsupervised Network for Hyperspectral Image Super-re
 
 # $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
-Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing  (TGRS). 
+[Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Li Ni](https://orcid.org/0000-0002-9236-026X), [Min Huang](https://people.ucas.ac.cn/~huangmin), and [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=zh-CN&oi=ao)
+
+Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
+
+The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/379925172_Model-informed_Multistage_Unsupervised_Network_for_Hyperspectral_Image_Super-resolution) or 🖼️[**PDF**](./Imgs/M2U-Net.pdf)
 
 More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
 
